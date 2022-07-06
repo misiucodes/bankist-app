@@ -29,7 +29,7 @@ document.addEventListener('keydown', function (e) {
   }
 });
 
-// Scroll Feature
+// SCROLL FEATURE /////////////////
 
 const btnScrollTo = document.querySelector('.btn--scroll-to');
 const section1 = document.querySelector('#section--1');
